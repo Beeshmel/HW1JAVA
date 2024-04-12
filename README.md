@@ -15,3 +15,6 @@ https://docs.oracle.com/en/java/javase/20/install/installation-jdk-microsoft-win
 Скачать на сайте: https://www.jetbrains.com/ru-ru/idea/
 
 Инструкция для подключения JDK: https://www.jetbrains.com/help/idea/sdk.html#change-module-sdk
+
+## Домашнее задание: 
+написать текст с переносами, посчитать сумму трех чисел, перевести метры в км, посчитать количество лет до пенсии по году рождения.
